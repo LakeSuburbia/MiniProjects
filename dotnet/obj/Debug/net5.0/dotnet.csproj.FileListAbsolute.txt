@@ -1,0 +1,15 @@
+/Users/sandermangelschots/Documents/GitHub/EigenProjecten/dotnet/bin/Debug/net5.0/dotnet.deps.json
+/Users/sandermangelschots/Documents/GitHub/EigenProjecten/dotnet/bin/Debug/net5.0/dotnet.runtimeconfig.json
+/Users/sandermangelschots/Documents/GitHub/EigenProjecten/dotnet/bin/Debug/net5.0/dotnet.runtimeconfig.dev.json
+/Users/sandermangelschots/Documents/GitHub/EigenProjecten/dotnet/bin/Debug/net5.0/dotnet.dll
+/Users/sandermangelschots/Documents/GitHub/EigenProjecten/dotnet/bin/Debug/net5.0/ref/dotnet.dll
+/Users/sandermangelschots/Documents/GitHub/EigenProjecten/dotnet/bin/Debug/net5.0/dotnet.pdb
+/Users/sandermangelschots/Documents/GitHub/EigenProjecten/dotnet/obj/Debug/net5.0/dotnet.csprojAssemblyReference.cache
+/Users/sandermangelschots/Documents/GitHub/EigenProjecten/dotnet/obj/Debug/net5.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sandermangelschots/Documents/GitHub/EigenProjecten/dotnet/obj/Debug/net5.0/dotnet.AssemblyInfoInputs.cache
+/Users/sandermangelschots/Documents/GitHub/EigenProjecten/dotnet/obj/Debug/net5.0/dotnet.AssemblyInfo.cs
+/Users/sandermangelschots/Documents/GitHub/EigenProjecten/dotnet/obj/Debug/net5.0/dotnet.csproj.CoreCompileInputs.cache
+/Users/sandermangelschots/Documents/GitHub/EigenProjecten/dotnet/obj/Debug/net5.0/dotnet.dll
+/Users/sandermangelschots/Documents/GitHub/EigenProjecten/dotnet/obj/Debug/net5.0/ref/dotnet.dll
+/Users/sandermangelschots/Documents/GitHub/EigenProjecten/dotnet/obj/Debug/net5.0/dotnet.pdb
+/Users/sandermangelschots/Documents/GitHub/EigenProjecten/dotnet/obj/Debug/net5.0/dotnet.genruntimeconfig.cache
