@@ -1,6 +1,5 @@
 import sys
 
-
 fileread = open(sys.argv[1], "r") 
 string = sys.argv[2]
 memory=[]
