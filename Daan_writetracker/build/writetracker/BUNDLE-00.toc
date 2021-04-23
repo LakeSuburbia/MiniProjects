@@ -1,0 +1,3 @@
+([('writetracker',
+   '/Users/sandermangelschots/Documents/GitHub/EigenProjecten/Daan_writetracker/dist/writetracker',
+   'EXECUTABLE')],)
