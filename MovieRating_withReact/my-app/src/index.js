@@ -4,10 +4,17 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
+const greeting = React.createElement(
+  'h1',
+  {},
+  'hello world'
+  );
+
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  
+    greeting
+  ,
   document.getElementById('root')
 );
 
